@@ -1,5 +1,5 @@
 # UAlberta-Links-CS
-A collection of links I've found useful during my time studying Computer Science at the University of Alberta (also so I can finally close my browser tabs). This is a live document that gets updated regularly. 
+A collection of links I've found useful during my time studying Computer Science at the University of Alberta (also so I can finally close my browser tabs). This is a live document that gets updated regularly. To add links, please make a pull request
 
 ### OAs:
 https://github.com/Leader-board/OA-and-Interviews/tree/main
