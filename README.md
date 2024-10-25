@@ -14,7 +14,10 @@ https://www.techinterviewhandbook.org/software-engineering-interview-guide/
 
 ### Classes:
 
-### CMPUT 291 - File and DataBase Management
+### CMPUT 201 - Intro to C Programming
+- https://www.youtube.com/channel/UCQYMhOMi_Cdj1CEAU-fv80A
+
+### CMPUT 291 - File and Database Management
 For practicing queries:
 - https://leetcode.com/studyplan/top-sql-50/ 
 - https://www.hackerrank.com/domains/sql
