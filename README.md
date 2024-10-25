@@ -11,3 +11,17 @@ https://www.sahil-kale.com/post/internship-resume-and-application-guides
 
 ### Interviews:
 https://www.techinterviewhandbook.org/software-engineering-interview-guide/
+
+### Classes:
+
+### CMPUT 291 - File and DataBase Management
+For practicing queries:
+- https://leetcode.com/studyplan/top-sql-50/ 
+- https://www.hackerrank.com/domains/sql
+- https://sqlzoo.net
+
+MongoDB Tutorial:
+- https://www.youtube.com/watch?v=QPFlGswpyJY&t=18s
+
+### CMPUT 301 - Intro to Software Engineering
+- https://learning.oreilly.com/library/view/developing-applications-with/0201702525/?sso_link=yes&sso_link_from=university-of-alberta (Login with UAlberta info to access)
