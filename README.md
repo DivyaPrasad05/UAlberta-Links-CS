@@ -12,6 +12,11 @@ A collection of links I've found useful during my time studying Computer Science
 ### Interviews:
 - https://www.techinterviewhandbook.org/software-engineering-interview-guide/
 
+### Want to Learn Systems Design?:
+- https://gist.github.com/vasanthk/485d1c25737e8e72759f
+- https://www.youtube.com/watch?v=i7twT3x5yv8
+- https://www.youtube.com/watch?v=F2FmTdLtb_4
+
 ## Classes:
 
 ### CMPUT 201 - Intro to C Programming
